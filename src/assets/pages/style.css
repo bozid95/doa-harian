@@ -1,0 +1,13 @@
+#search {
+  padding-top: 5rem;
+  display: flex;
+  width: auto;
+  color: aliceblue;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  margin-top: 3rem;
+  background-color: rgb(36, 8, 8);
+  color: black;
+}
