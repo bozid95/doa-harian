@@ -34,7 +34,7 @@ function App() {
       <div className="container-fluid" id="search">
         <div className="col-md-10">
           <h1 className="text-center">CARI DO'A</h1>
-<i className="text-center">Made by Do-2 using Javascript<i>
+<h10 className="text-center">Made by Do-2 using Javascript</h10>
           <Form.Group controlId="form">
             <Form.Control onChange={(e) => setInput(e.target.value)} type="text" placeholder="Cari Doa Sehari-hari" className="text-center" />
           </Form.Group>
