@@ -9,7 +9,7 @@ function App() {
   const [output, setOutput] = useState([]);
 
   useEffect(() => {
-    Axios.get("./api.json")
+    Axios.get("../api.json")
       .then((result) => {
         console.log("data API", result.data);
         const ResponseAPI = result.data;
