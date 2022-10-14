@@ -1,0 +1,12 @@
+#search {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  display: flex;
+  width: auto;
+  color: aliceblue;
+  justify-content: center;
+  align-items: center;
+}
+.div {
+  margin-top: 1rem;
+}
